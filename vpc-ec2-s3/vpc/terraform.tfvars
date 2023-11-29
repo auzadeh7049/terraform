@@ -1,0 +1,6 @@
+vpc_name          = "webserver-vpc"
+vpc_cidr_block    = "10.0.0.0/16"
+igw_name          = "webserver-igw"
+route_table_name  = "webserver-rtb"
+subnet_name       = "webserver-subnet"
+subnet_cidr_block = "10.0.1.0/24"
